@@ -21,4 +21,4 @@ Key components:
 - Builds a decision tree **without external ML libraries**  
 - Uses **information gain** to find the best splits  
 - Easily integratable into more advanced models like **Random Forests**
-- 
+
