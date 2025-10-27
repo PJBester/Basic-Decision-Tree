@@ -5,10 +5,6 @@ This project demonstrates the core principles behind tree-based machine learning
 
 ---
 
-## Overview
-
-This project provides an educational look into how a decision tree learns to split data based on information gain and how it can make predictions for new samples.
-
 Key components:
 - **Node Class** – Represents each node in the tree (feature, threshold, children, or leaf value).
 - **DecisionTree Class** – Handles the training (`fit`) and prediction (`predict`) logic.
