@@ -28,6 +28,11 @@ public class Tree {
             node.isLeaf = true;
             node.value = majorityClass(students);
             return node;}
+<<<<<<< HEAD
+=======
+        int featureIndex = 0;
+        node.setFeatureIndex(featureIndex);
+>>>>>>> 487ffc59d2c3f3b3c14754e8cc5ee6a58e15f56f
         node.setThreshold(bestPartition);
         node.threshold = bestPartition;
         List<Student> leftSubset = new java.util.ArrayList<>();
