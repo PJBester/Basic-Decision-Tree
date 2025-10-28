@@ -4,10 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Node {
-<<<<<<< HEAD
-=======
-    int featureIndex;
->>>>>>> 487ffc59d2c3f3b3c14754e8cc5ee6a58e15f56f
     double threshold;
     Node left;
     Node right;
@@ -19,17 +15,6 @@ public class Node {
         this.right = null;
     }
 
-<<<<<<< HEAD
-=======
-    public int getFeatureIndex() {
-        return featureIndex;
-    }
-
-    public void setFeatureIndex(int featureIndex) {
-        this.featureIndex = featureIndex;
-    }
-
->>>>>>> 487ffc59d2c3f3b3c14754e8cc5ee6a58e15f56f
     public double getThreshold() {
         return threshold;
     }
